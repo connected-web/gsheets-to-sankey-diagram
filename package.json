@@ -19,6 +19,7 @@
   "homepage": "https://github.com/connected-web/gsheets-to-sankey-diagram#readme",
   "devDependencies": {
     "express": "^4.17.1",
+    "google-spreadsheet-to-json": "github:connected-web/google-spreadsheet-to-json#b3ec32353a6695d4ed30c1d623989402af9964f2",
     "promise-path": "^1.4.1"
   }
 }
