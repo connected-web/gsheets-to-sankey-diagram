@@ -2,7 +2,7 @@
   "name": "gsheets-to-sankey-diagram",
   "version": "1.0.0",
   "description": "Convert data published in a google spreadsheet into a sankey diagram.",
-  "main": "index.js",
+  "main": "start.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/connected-web/gsheets-to-sankey-diagram/issues"
   },
-  "homepage": "https://github.com/connected-web/gsheets-to-sankey-diagram#readme"
+  "homepage": "https://github.com/connected-web/gsheets-to-sankey-diagram#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "promise-path": "^1.4.1"
+  }
 }
