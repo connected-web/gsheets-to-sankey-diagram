@@ -4,7 +4,8 @@ const spreadsheets = [{
   name: 'Finances - Tag Analysis',
   id: '1H6sD9XQVuLQTvoKkoJ0IjZ9cgbwRGacVuSPLk9ZTq1E'
 }]
-const { write } = require('promise-path')
+const { write, position } = require('promise-path')
+const models = position(__dirname, '../models')
 
 const log = []
 const report = (...messages) => console.log(['[Download Data from Google Spreadsheet]', ...messages].join(' '))
@@ -32,7 +33,7 @@ async function downloadSpreadsheets (fetchers, spreadsheets) {
 
   const combinedSheets = allSheets.reduce((acc, item) => acc.concat(item), [])
 
-  await write('downloaded-data.json', JSON.stringify(combinedSheets, null, 2), 'utf8')
+  await write(models('downloaded-data.json'), JSON.stringify(combinedSheets, null, 2), 'utf8')
 
   return combinedSheets
 }

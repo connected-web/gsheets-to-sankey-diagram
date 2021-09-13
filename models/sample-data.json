@@ -1,0 +1,135 @@
+[
+  {
+    "date": 44449,
+    "description": "FIVE GUYS PARRS WO",
+    "type": "PURCHASE",
+    "moneyOut": 16.15,
+    "tags": "Entertainment - Food"
+  },
+  {
+    "date": 44448,
+    "description": "JOHN BEECH         MONZO",
+    "type": "BP/SO",
+    "moneyOut": 50,
+    "tags": "Entertainment - Food"
+  },
+  {
+    "date": 44447,
+    "description": "NATIONAL TRUST MEM 333883710-74010536",
+    "type": "DD",
+    "moneyOut": 10,
+    "tags": "Entertainment - Subscription"
+  },
+  {
+    "date": 44446,
+    "description": "HLAM REGULAR SAVIN 01C0326209422001",
+    "type": "DD",
+    "moneyOut": 500,
+    "tags": "Investment - Stock Portfolio"
+  },
+  {
+    "date": 44446,
+    "description": "OB Adalgotu",
+    "type": "PURCHASE",
+    "moneyOut": 57.06,
+    "tags": "Travel - Iceland - Fuel"
+  },
+  {
+    "date": 44446,
+    "description": "Frihofnin",
+    "type": "PURCHASE",
+    "moneyOut": 25.03,
+    "tags": "Groceries"
+  },
+  {
+    "date": 44446,
+    "description": "CCC GBP 57.06",
+    "type": "PURCHASE",
+    "moneyOut": 1.56,
+    "tags": "Travel - Iceland - Fuel"
+  },
+  {
+    "date": 44446,
+    "description": "CCC GBP 25.03",
+    "type": "PURCHASE",
+    "moneyOut": 0.68,
+    "tags": "Travel - Iceland - Fuel"
+  },
+  {
+    "date": 44445,
+    "description": "TESLA",
+    "type": "DD",
+    "moneyOut": 597.32,
+    "tags": "Car - Electric Charging - Tesla"
+  },
+  {
+    "date": 44445,
+    "description": "Car Insurance",
+    "type": "PURCHASE",
+    "moneyOut": 1034.88,
+    "tags": "Car - Insurance"
+  },
+  {
+    "date": 44445,
+    "description": "Dekkjatjonustan",
+    "type": "PURCHASE",
+    "moneyOut": 326.62,
+    "tags": "Travel - Iceland - Hire Car - Tyre Replacement"
+  },
+  {
+    "date": 44445,
+    "description": "24 Road Assistance",
+    "type": "PURCHASE",
+    "moneyOut": 171.6,
+    "tags": "Travel - Iceland - Hire Car - Road Assistance"
+  },
+  {
+    "date": 44445,
+    "description": "Sky Lagoon",
+    "type": "PURCHASE",
+    "moneyOut": 102.85,
+    "tags": "Travel - Iceland - Birthday"
+  },
+  {
+    "date": 44445,
+    "description": "Matarkjallarinn",
+    "type": "PURCHASE",
+    "moneyOut": 91.41,
+    "tags": "Travel - Iceland - Birthday - Food Cellar"
+  },
+  {
+    "date": 44445,
+    "description": "Steikhus/Rauda Ljo",
+    "type": "PURCHASE",
+    "moneyOut": 66.12,
+    "tags": "Travel - Iceland - Food - Steakhouse"
+  },
+  {
+    "date": 44445,
+    "description": "NATIONWIDE PATHOLO",
+    "type": "PURCHASE",
+    "moneyOut": 40,
+    "tags": "Travel - Iceland - Covid Testing"
+  },
+  {
+    "date": 44445,
+    "description": "Nexus",
+    "type": "PURCHASE",
+    "moneyOut": 34.29,
+    "tags": "Entertainment - Boardgames"
+  },
+  {
+    "date": 44445,
+    "description": "Sky Lagoon - Recep",
+    "type": "PURCHASE",
+    "moneyOut": 10.01,
+    "tags": "Travel - Iceland - Food - Sky Lagoon"
+  },
+  {
+    "date": 44445,
+    "description": "CCC GBP 326.62",
+    "type": "PURCHASE",
+    "moneyOut": 8.98,
+    "tags": "Travel - Iceland - Currency Conversion"
+  }
+]

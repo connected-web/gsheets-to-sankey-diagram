@@ -7,7 +7,7 @@ const server = express()
 const port = 8080
 
 server.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('GSheets to Sankey Diagram Server - see: /template/sankey-diagram.html')
 })
 
 server.use('/template', express.static(root('/template')))
