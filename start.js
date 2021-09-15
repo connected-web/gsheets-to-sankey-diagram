@@ -11,6 +11,7 @@ server.get('/', (req, res) => {
 })
 
 server.use('/template', express.static(root('/template')))
+server.use('/models', express.static(root('/models')))
 
 server.listen(port, () => {
   console.log(`${packageJson.name} server listening at http://localhost:${port}`)
